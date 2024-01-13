@@ -1,3 +1,4 @@
+# MỘT SỐ ĐỀ MẪU TEST OOP CÓ SỬ DỤNG ABSTRACT CLASS VÀ INTERFACE
 ## Bài 1: Quản lý hình học
 - Tạo một interface 'Shape' với các phương thức như 'CalculateArea()' và 'CalculatePerimeter()'
 - Xây dựng các class con như 'Cricle', 'Rectangle' và 'Triangle' thực hiện interface 'Shape'
